@@ -21,5 +21,5 @@ This repo includes the RR White Paper Embed plugin and closely mirrors the rrcms
 2. Network activate ACF, Gravity Forms, Partner Solutions
 3. activate white paper admin on default site
 4. activate white paper client on blog site
-5. Create partner solutions user on BLOG site: https://docs.google.com/document/d/1uwZi42WhTGISAde9uN5FzrfedqOdJlCiduspdIavgso/edit
+5. Create partner solutions user on BLOG site
 6. Update WP permalink settings to custom `/%category%/%postname%/`
