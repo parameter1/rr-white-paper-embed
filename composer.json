@@ -1,0 +1,14 @@
+{
+  "name": "parameter1/rr-white-paper-embed",
+  "description": "A Wordpress plugin for presenting RR Whitepapers in an embeddable format",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Josh Worden",
+      "email": "josh@parameter1.com"
+    }
+  ],
+  "require": {},
+  "version": "0.0.0"
+}
